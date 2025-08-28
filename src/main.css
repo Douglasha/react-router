@@ -49,3 +49,12 @@ strong {
   text-transform: uppercase;
 }
 
+Button {
+  background-color: orangered;
+  padding: 12px 16px;
+  border-radius: 7px;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
+
